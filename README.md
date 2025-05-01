@@ -1,0 +1,5 @@
+The Blood Matrix project is a web-based blood donation management system designed to simplify, accelerate, and enhance the reliability of blood donation processes. Built with a userfriendly interface using JSP, HTML, and CSS, the system enables users to easily register as donors, browse donor lists, manage blood stock, and request blood when needed.On the backend, Java, Servlets, and JDBC are employed to securely process user data and ensure seamless connectivity with a MySQL database. The application is deployed on an Apache Tomcat server, ensuring stable and efficient performance.The primary objective of Blood Matrix is to bridge the critical gap between blood donors and blood banks, facilitating timely and efficient access to lifesaving resources. This system not only improves operational efficiency for administrators but also offers a streamlined experience for users, ultimately contributing to better healthcare outcomes.
+
+
+
+![1](https://github.com/user-attachments/assets/c3e8effa-75e3-4c4b-a14f-d96b6c211f6f)
